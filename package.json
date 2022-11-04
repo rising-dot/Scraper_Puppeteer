@@ -1,0 +1,14 @@
+{
+  "name": "lotto_scraper",
+  "version": "1.0.0",
+  "description": "Lørdagslotto Web-Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
